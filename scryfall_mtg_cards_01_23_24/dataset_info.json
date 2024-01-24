@@ -1,0 +1,14 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "train": {
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
